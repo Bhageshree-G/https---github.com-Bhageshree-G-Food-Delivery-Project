@@ -1,4 +1,5 @@
 Full Stack Food Ordering Web Application
+
 This Full Stack Food Ordering Web Application project is designed to streamline the process of ordering food online. It includes three main components: frontend, backend, and admin panel. Below are the commands to start each part of the project:
 
 Starting the Backend Server
@@ -59,4 +60,6 @@ React JS: Frontend framework for building the user interface.
 React Router DOM: Library for handling routing in the frontend application.
 Axios: Library for making HTTP requests to the backend server.
 Toastify: Library for displaying toast notifications in the admin panel.
+
+
 This project combines a variety of technologies to create a comprehensive solution for online food ordering. It provides users with a seamless experience for browsing menus, placing orders, and managing their accounts, while administrators have access to tools for overseeing and managing the platform's operations.
