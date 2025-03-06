@@ -1,4 +1,4 @@
-Full Stack Food Ordering Web Application
+**Full Stack Food Ordering Web Application**
 
 This Full Stack Food Ordering Web Application project is designed to streamline the process of ordering food online. It includes three main components: frontend, backend, and admin panel. Below are the commands to start each part of the project:
 
@@ -29,20 +29,21 @@ Navigate to the project directory:
 cd food-ordering-web-app
 Install the dependencies:
 npm install
-Access URLs
-After starting the servers, you can access the following URLs in your web browser:
 
+**Access URLs**
+After starting the servers, you can access the following URLs in your web browser:
 Frontend: http://localhost:5174
 Admin Panel: http://localhost:5173
 Backend: http://localhost:4000
 These URLs will allow you to access the respective components of the Food Ordering Web Application locally on your machine.
 
-Technologies Used
-Frontend
+**Technologies Used
+Frontend**
 React JS: Frontend framework for building the user interface.
 React Router DOM: Library for handling routing in the frontend application.
 Axios: Library for making HTTP requests to the backend server.
-Backend
+**
+***Backend**
 Express: Backend framework for building the server.
 MongoDB: NoSQL database used for storing application data.
 Mongoose: MongoDB object modeling tool for Node.js.
